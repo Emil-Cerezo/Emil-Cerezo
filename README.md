@@ -2,7 +2,9 @@
            Soy estudiante de ing de sistemas, me gusta el deporte y me atrae mucho el mundo de la programacion.
 
 Practico deportes en mi tiempo libre
+
 Tengo muchas metas que cumplir
+
 Fui un alumno destacado en el colegio
 
 Para contactarme:
